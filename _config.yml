@@ -1,7 +1,7 @@
 name: Vanguard Party
 favicon: null
-layout_spectrum: 0.13306917739100754
-typography_spectrum: 0.017144331010058522
+layout_spectrum: 0
+typography_spectrum: 0.60129
 title: Vanguard Party
 cta:
   domain: null
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#FF6700'
-    - '#EBEBEB'
-    - '#C0C0C0'
-    - '#3A6EA5'
-    - '#004E98'
-  brandStrength: 0.991839875234291
-  lightness: 0.8176712980493903
-  saturation: 0.6370547919068485
-  rhythmicContrast: 0.3165736715309322
+    - '#ffffff'
+    - '#0b274e'
+    - '#6a8701'
+    - '#d5264c'
+    - '#d5858b'
+  brandStrength: 0.5
+  lightness: 0.75
+  saturation: 1
+  rhythmicContrast: 0.5
 purpose: []
