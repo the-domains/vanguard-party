@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Vanguard Party]]></title>
         <description><![CDATA[Vanguard Party]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/vanguard-party/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 05 May 2016 17:54:47 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 05 May 2016 18:18:37 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/vanguard-party/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/1bd4acdc-f887-40d5-94d0-c6e542a83d53.jpg">]]></description>
+            <link>https://thegrid.ai/vanguard-party/1cb74adb-6641-4cf7-bda2-13eca8b1cb3f/index.html</link>
+            <guid isPermaLink="false">1cb74adb-6641-4cf7-bda2-13eca8b1cb3f</guid>
+            <pubDate>Thu, 05 May 2016 18:18:07 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>ABOUT THE BAND</p>]]></description>
-            <link>undefinedabout-the-band/index.html</link>
+            <link>https://thegrid.ai/vanguard-party/about-the-band/index.html</link>
             <guid isPermaLink="false">5b0dac5d-b988-4c80-b755-ed9ecf736c37</guid>
             <pubDate>Thu, 05 May 2016 17:54:46 GMT</pubDate>
         </item>
